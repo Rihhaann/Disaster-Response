@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Sentinel AI: Disaster Response(29/11/25)",
+  "description": "A real-time disaster evacuation and risk guidance system powered by Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
